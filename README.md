@@ -9,7 +9,7 @@
 
 MIT License
 
-Copyright (c) 2025 Aditya Viroopaxi
+Copyright (c) 2026 Aditya Viroopaxi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
