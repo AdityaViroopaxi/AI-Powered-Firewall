@@ -131,7 +131,7 @@ These visual elements work together to create an intuitive yet powerful security
 
 ![Developer](image/mypassport.png)
 
-**Aditya Viroopaxi** - *Lead Developer & AI Security Specialist*
+**Aditya Viroopaxi** - *Full Stack devloper*
 
 The AI-Powered Firewall project was developed by Aditya Viroopaxi, combining expertise in cybersecurity, machine learning, and full-stack development to create a comprehensive security solution that addresses modern web threats through innovative AI-powered approaches.
 
@@ -141,7 +141,6 @@ The AI-Powered Firewall project was developed by Aditya Viroopaxi, combining exp
 - Full-stack web development and system integration
 - Cybersecurity frameworks and deployment architecture
 
-**Website:** [arknox.in](https://arknox.in)
 
 ## System Architecture
 
@@ -730,12 +729,9 @@ The visual documentation serves as both a demonstration of current capabilities 
 ## About the Author
 
 **Aditya Viroopaxi**
-Web Developer & AI Security Specialist
-Website: [arknox.in](https://arknox.in)
+### About the Author
 
-This AI-Powered Firewall project represents a commitment to advancing cybersecurity through innovative machine learning approaches. The project is open-source under the MIT License, encouraging collaboration and further development by the security community.
-
-For questions, contributions, or collaboration opportunities, please visit [arknox.in](https://arknox.in) or refer to the project repository.
+Aditya Viroopaxi is a final-year Computer Science and Engineering student specializing in full-stack development with Java and MERN stack technologies. He has hands-on experience through internships in full-stack development and cybersecurity, along with projects in blockchain, accessibility, and security tools. Passionate about building scalable and secure applications, he actively participates in hackathons and continuous learning initiatives.
 
 ---
 
